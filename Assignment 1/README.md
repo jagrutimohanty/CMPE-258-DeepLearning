@@ -1,7 +1,11 @@
-
-### Upload code from your system
-
+## Name Jagruti Mohanty 
+````
+Course CMPE-258 - Deep Learning 
+email id - jagruti.mohanty@sjsu.edu
+````
+### Assignment 
 ```
-from google.colab import files
-uploaded = files.upload()
+It has two sub folders Assignment part 1 and Assignment part 2 which are explained in detail
+under separate subsections
+```ed = files.upload()
 ``` 
