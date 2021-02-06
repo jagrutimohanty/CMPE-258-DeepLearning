@@ -1,8 +1,8 @@
 
 #### Updated Google colab notebook by using Fastai and came up with the following implementations 
 ```
-* Prediction a pciture uploaded is a dog pciture
-* Added a upload widget
+*Prediction a pciture uploaded is a dog pciture
+*Added a upload widget
 
 
 *Importing a tabular dataset other than the default dataset provided by fastai 
