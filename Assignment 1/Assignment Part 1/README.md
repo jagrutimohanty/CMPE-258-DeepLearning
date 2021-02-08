@@ -11,7 +11,8 @@
 
 Shared further details in the python colab notebook
 
-To run this notebook click on the colab icon on the top and save a copy in drive to run the output
+To run this notebook click on the colab icon on the top and save a copy in drive to run the output by providing authentication google link
+
 
 
 ```
