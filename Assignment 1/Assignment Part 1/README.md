@@ -12,3 +12,7 @@
 ```
 
 #### Reference Links 
+#### Reference links 
+####  https://confusedcoders.com/data-science/deep-learning/how-to-apply-deep-learning-on-tabular-data-with-fastai
+####  https://docs.fast.ai/tabular.learner.html
+
