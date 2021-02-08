@@ -9,6 +9,9 @@
 * Created a prediction model to check the survivors of the the titanic ship wreck based on the features
 
 
+Shared further details in the python colab notebook
+
+To run this notebook 
 
 ```
 
