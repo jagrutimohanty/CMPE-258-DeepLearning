@@ -1,6 +1,6 @@
-# Assignment 2 : Used Google cloud platform using my personal email id (jagruti.iter@gmail.com) for getting free credits to do the assingment.
+### Assignment 2 : Used Google cloud platform using my personal email id (jagruti.iter@gmail.com) for getting free credits to do the assingment.
 
-### Steps followed : 
+#### Steps followed : 
  *1. Created a project and tagged it for billing.
  *2. For individual tasks did the following :
  
